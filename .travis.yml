@@ -9,5 +9,7 @@ script:
  - python par.py
  - python impar.py 
  - python multiplicacao.py 
+ - python int.py 
+
 
  
