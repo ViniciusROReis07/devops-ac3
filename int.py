@@ -1,5 +1,5 @@
 def isInt():
-    dado = 10
+    dado = Devops
     assert isinstance(dado, int)
     
     
