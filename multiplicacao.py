@@ -1,5 +1,5 @@
 def multiplicacao():
-    assert 2*2 == 4
+    assert 2*5 == 4
     
     
 multiplicacao()
